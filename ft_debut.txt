@@ -1,0 +1,2 @@
+1. In the most concise way possible, answer this question, what is 42? How would you 
+ describe 42 to someone who doesn’t know what 42 is?
